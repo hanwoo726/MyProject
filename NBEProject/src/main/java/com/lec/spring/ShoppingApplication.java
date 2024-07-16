@@ -8,10 +8,10 @@ import org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfi
 
 @SpringBootApplication
 @MapperScan("com.lec.spring.repository")
-public class NbeProjectApplication {
+public class ShoppingApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(NbeProjectApplication.class, args);
+        SpringApplication.run(ShoppingApplication.class, args);
     }
 
 }

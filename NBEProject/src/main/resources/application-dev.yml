@@ -1,6 +1,6 @@
 spring:
   application:
-    name: NBEProject
+    name: Shopping
 
   thymeleaf:
     cache: false
