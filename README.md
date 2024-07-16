@@ -62,42 +62,32 @@
   - 주문 페이지 구현
 
 ## 페이지 설명
-|![image](https://user-images.githubusercontent.com/66003567/216818254-18683c3f-af80-4009-b2cc-35bdee865f23.png)|![image](https://user-images.githubusercontent.com/66003567/216818272-8749569b-b217-4572-9738-32b0058459f4.png)|
-|:---:|:---:|
-|시작 화면|사용자 정보 화면|
+| ![image](https://user-images.githubusercontent.com/66003567/216818254-18683c3f-af80-4009-b2cc-35bdee865f23.png) | ![image](https://user-images.githubusercontent.com/66003567/216818272-8749569b-b217-4572-9738-32b0058459f4.png) |
+|:---------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|
+|                                                      메인 화면                                                      |                                                     로그인 화면                                                      |
 
 
 
-## 
-- 
+- 회원 페이지
 
+| MyPage| CART|Store| ShoppingDetail|
+|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|---|-----------------------------------------------------------------------------------------------------------------|
+| ![image](https://user-images.githubusercontent.com/66003567/216816017-bfd18669-9f70-45c2-8561-bae648690602.png) | ![image](https://user-images.githubusercontent.com/66003567/216815971-d8ed6ea8-1f92-45f8-9611-1cbe2b5e8db0.png) |![image](https://user-images.githubusercontent.com/66003567/216815991-88e0f4d6-3e5d-4c19-9eb9-97047b40c0d0.png)| ![image](https://user-images.githubusercontent.com/66003567/216816002-4eca6510-4436-44f5-b949-347e75129ada.png) |
+| 옥수수 농사 가능                                                                                                      | 슈팅, 두더지 잡기, 낚시 미니게임 입장 가능                                                                                       |물품 판매 및 구매 가능| 게임 저장 가능                                                                                                        |
 
+- 관리자 페이지
 
-- 맵의 이동 가능 장소
+| Main| OrderList| UserList| Required|
+|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| ![image](https://user-images.githubusercontent.com/66003567/216816081-cf4a29c6-72f3-4b75-b01d-3dd6e3faabc5.png) | ![image](https://user-images.githubusercontent.com/66003567/216816088-cd83d20a-e023-4af2-b406-98197af5ff35.png) | ![image](https://user-images.githubusercontent.com/66003567/216816106-5a97f26e-565b-43a6-bfab-d22e36745f80.png) | ![image](https://user-images.githubusercontent.com/66003567/216816119-fb22c507-f6c4-49a3-b4f0-28ecaae94f6c.png) |
+| 오븐 타이머 조절 성공시 빵 획득                                                                                              | 나무 몬스터 제거시 코인 획득                                                                                                | 일정 수 이상 두더지 잡기 성공시 코인 획득                                                                                        | 찌를 올바른 위치에 멈추기 3회 성공시 선택한 난이도의 물고기 획득                                                                           |
 
-|Home|Forest|Store|Room|
-|---|---|---|---|
-|![image](https://user-images.githubusercontent.com/66003567/216816017-bfd18669-9f70-45c2-8561-bae648690602.png)|![image](https://user-images.githubusercontent.com/66003567/216815971-d8ed6ea8-1f92-45f8-9611-1cbe2b5e8db0.png)|![image](https://user-images.githubusercontent.com/66003567/216815991-88e0f4d6-3e5d-4c19-9eb9-97047b40c0d0.png)|![image](https://user-images.githubusercontent.com/66003567/216816002-4eca6510-4436-44f5-b949-347e75129ada.png)|
-|옥수수 농사 가능|슈팅, 두더지 잡기, 낚시 미니게임 입장 가능|물품 판매 및 구매 가능|게임 저장 가능|
+## 기술 스택
 
-- 미니게임
-
-|베이킹|슈팅|두더지 잡기|낚시|
-|---|---|---|---|
-|![image](https://user-images.githubusercontent.com/66003567/216816081-cf4a29c6-72f3-4b75-b01d-3dd6e3faabc5.png)|![image](https://user-images.githubusercontent.com/66003567/216816088-cd83d20a-e023-4af2-b406-98197af5ff35.png)|![image](https://user-images.githubusercontent.com/66003567/216816106-5a97f26e-565b-43a6-bfab-d22e36745f80.png)|![image](https://user-images.githubusercontent.com/66003567/216816119-fb22c507-f6c4-49a3-b4f0-28ecaae94f6c.png)|
-|오븐 타이머 조절 성공시 빵 획득|나무 몬스터 제거시 코인 획득|일정 수 이상 두더지 잡기 성공시 코인 획득|찌를 올바른 위치에 멈추기 3회 성공시 선택한 난이도의 물고기 획득|
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanwoo726&layout=compact)](https://github.com/hanwoo726/github-readme-stats)
-
-### 활용한 기술
-
-| **Front-End**  | **Back-End**  | **ETC**  | **Version Control**  |
-|----------------|---------------|----------|----------------------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  | ![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)  | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  |
-| ![Ajax](https://img.shields.io/badge/Ajax-323330?style=for-the-badge&logo=ajax&logoColor=F7DF1E)  | ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)  | ![RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)  | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  |
+| Front-End          | Back-End              | ETC                   | Version Control |
+|--------------------|-----------------------|-----------------------|-----------------|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  | ![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)  | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![Ajax](https://img.shields.io/badge/Ajax-007FFF?style=for-the-badge&logo=ajax&logoColor=white) | ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)  | ![RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)  | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  | ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  | ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  |  |
 | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  | ![ERD Editor](https://img.shields.io/badge/ERD_Editor-5C2D91?style=for-the-badge&logo=erd&logoColor=white)  |  |
 | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  | ![MyBatis](https://img.shields.io/badge/MyBatis-007396?style=for-the-badge&logo=mybatis&logoColor=white)  | ![jsoup](https://img.shields.io/badge/jsoup-333333?style=for-the-badge&logo=jsoup&logoColor=white)  |  |
@@ -106,7 +96,3 @@
 | ![Slick](https://img.shields.io/badge/Slick-1E2923?style=for-the-badge&logo=slick&logoColor=white)  |  | ![commons-csv](https://img.shields.io/badge/commons_csv-007396?style=for-the-badge&logo=apache&logoColor=white)  |  |
 |  |  | ![commons-lang3](https://img.shields.io/badge/commons_lang3-007396?style=for-the-badge&logo=apache&logoColor=white)  |  |
 |  |  | ![commons-text](https://img.shields.io/badge/commons_text-007396?style=for-the-badge&logo=apache&logoColor=white)  |  |
-
-
-
-
