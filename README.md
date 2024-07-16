@@ -5,9 +5,18 @@
 </div>
 
 ## 목차
+
 - [개요](#개요)
 - [팀원](#팀원)
-- [페이지 설명](#페이지-설명)
+- [기술 스택](#기술-스택)
+- [기능 설명](#기능-설명)
+- [페이지 구성](#페이지-구성)
+- [설치 및 사용법](#설치-및-사용법)
+- [프로젝트 구조](#프로젝트-구조)
+- [API 문서](#api-문서)
+- [테스트](#테스트)
+- [참고 자료](#참고-자료)
+
 
 ## 개요
 - 프로젝트 이름: NullBrainException 🏠
@@ -96,7 +105,7 @@
 | ![Slick](https://img.shields.io/badge/Slick-1E2923?style=for-the-badge&logo=slick&logoColor=white)  |  | ![commons-csv](https://img.shields.io/badge/commons_csv-007396?style=for-the-badge&logo=apache&logoColor=white)  |  |
 |  |  | ![commons-lang3](https://img.shields.io/badge/commons_lang3-007396?style=for-the-badge&logo=apache&logoColor=white)  |  |
 |  |  | ![commons-text](https://img.shields.io/badge/commons_text-007396?style=for-the-badge&logo=apache&logoColor=white)  |  |
-)
+
 
 
 
