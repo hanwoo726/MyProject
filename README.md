@@ -79,7 +79,7 @@
 
 | Main| OrderList| UserList| Required|
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-| ![image](https://user-images.githubusercontent.com/66003567/216816081-cf4a29c6-72f3-4b75-b01d-3dd6e3faabc5.png) | ![image](https://user-images.githubusercontent.com/66003567/216816088-cd83d20a-e023-4af2-b406-98197af5ff35.png) | ![image](https://user-images.githubusercontent.com/66003567/216816106-5a97f26e-565b-43a6-bfab-d22e36745f80.png) | ![image](https://user-images.githubusercontent.com/66003567/216816119-fb22c507-f6c4-49a3-b4f0-28ecaae94f6c.png) |
+| ![image](https://github.com/hanwoo726/MyProject/blob/master/AdminMain.png) | ![image](https://github.com/hanwoo726/MyProject/blob/master/Order.png) | ![image](https://github.com/hanwoo726/MyProject/blob/master/userList.png) | ![image](https://github.com/hanwoo726/MyProject/blob/master/inquiry.png) |
 | 오븐 타이머 조절 성공시 빵 획득                                                                                              | 나무 몬스터 제거시 코인 획득                                                                                                | 일정 수 이상 두더지 잡기 성공시 코인 획득                                                                                        | 찌를 올바른 위치에 멈추기 3회 성공시 선택한 난이도의 물고기 획득                                                                           |
 
 ## 기술 스택
