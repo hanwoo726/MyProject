@@ -72,7 +72,7 @@
 
 | MyPage| CART|Store| ShoppingDetail|
 |----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|---|-----------------------------------------------------------------------------------------------------------------|
-| ![image](https://user-images.githubusercontent.com/66003567/216816017-bfd18669-9f70-45c2-8561-bae648690602.png) | ![image](https://user-images.githubusercontent.com/66003567/216815971-d8ed6ea8-1f92-45f8-9611-1cbe2b5e8db0.png) |![image](https://user-images.githubusercontent.com/66003567/216815991-88e0f4d6-3e5d-4c19-9eb9-97047b40c0d0.png)| ![image](https://user-images.githubusercontent.com/66003567/216816002-4eca6510-4436-44f5-b949-347e75129ada.png) |
+| ![image](https://github.com/hanwoo726/MyProject/blob/master/img.png) | ![image](https://user-images.githubusercontent.com/66003567/216815971-d8ed6ea8-1f92-45f8-9611-1cbe2b5e8db0.png) |![image](https://user-images.githubusercontent.com/66003567/216815991-88e0f4d6-3e5d-4c19-9eb9-97047b40c0d0.png)| ![image](https://user-images.githubusercontent.com/66003567/216816002-4eca6510-4436-44f5-b949-347e75129ada.png) |
 | 옥수수 농사 가능                                                                                                      | 슈팅, 두더지 잡기, 낚시 미니게임 입장 가능                                                                                       |물품 판매 및 구매 가능| 게임 저장 가능                                                                                                        |
 
 - 관리자 페이지
