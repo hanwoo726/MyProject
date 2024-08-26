@@ -70,9 +70,9 @@
 
 - 회원 페이지
 
-| MyPage| CART|Store| ShoppingDetail|
+| MyPage| CART| ShoppingDetail|
 |----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|---|-----------------------------------------------------------------------------------------------------------------|
-| ![image](https://github.com/hanwoo726/MyProject/blob/master/img.png) | ![image](https://github.com/hanwoo726/MyProject/blob/master/Cart.png) |![image](https://user-images.githubusercontent.com/66003567/216815991-88e0f4d6-3e5d-4c19-9eb9-97047b40c0d0.png)| ![image](https://github.com/hanwoo726/MyProject/blob/master/ShoppingDetail.png) |
+| ![image](https://github.com/hanwoo726/MyProject/blob/master/img.png) | ![image](https://github.com/hanwoo726/MyProject/blob/master/Cart.png) | ![image](https://github.com/hanwoo726/MyProject/blob/master/ShoppingDetail.png) |
 | 주문조회, 문의하기, 후기 기능                                                                                                      | 슈팅, 두더지 잡기, 낚시 미니게임 입장 가능                                                                                       |물품 판매 및 구매 가능| 게임 저장 가능                                                                                                        |
 
 - 관리자 페이지
