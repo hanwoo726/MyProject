@@ -79,8 +79,7 @@
 
 | Main| OrderList| UserList| Required|
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-| ![image](https://github.com/hanwoo726/MyProject/blob/master/AdminMain.png) | ![image](https://github.com/hanwoo726/MyProject/blob/master/Order.png) | ![image](https://github.com/hanwoo726/MyProject/blob/master/userList.png) | ![image](https://github.com/hanwoo726/MyProject/blob/master/inquiry.png) |
-| 오븐 타이머 조절 성공시 빵 획득                                                                                              | 나무 몬스터 제거시 코인 획득                                                                                                | 일정 수 이상 두더지 잡기 성공시 코인 획득                                                                                        | 찌를 올바른 위치에 멈추기 3회 성공시 선택한 난이도의 물고기 획득                                                                           |
+| ![image](https://github.com/hanwoo726/MyProject/blob/master/AdminMain.png) | ![image](https://github.com/hanwoo726/MyProject/blob/master/Order.png) | ![image](https://github.com/hanwoo726/MyProject/blob/master/userList.png) | ![image](https://github.com/hanwoo726/MyProject/blob/master/inquiry.png) |                                                                      |
 
 ## 기술 스택
 
