@@ -11,9 +11,7 @@
 - [기술 스택](#기술-스택)
 - [기능 설명](#기능-설명)
 - [페이지 구성](#페이지-구성)
-- [설치 및 사용법](#설치-및-사용법)
 - [프로젝트 구조](#프로젝트-구조)
-- [API 문서](#api-문서)
 - [테스트](#테스트)
 - [참고 자료](#참고-자료)
 
@@ -77,6 +75,11 @@
 |  |  | ![commons-lang3](https://img.shields.io/badge/commons_lang3-007396?style=for-the-badge&logo=apache&logoColor=white)  |  |
 |  |  | ![commons-text](https://img.shields.io/badge/commons_text-007396?style=for-the-badge&logo=apache&logoColor=white)  |  |
 
+
+## 기능 설명
+
+
+
 ## 페이지 설명
 | ![image](https://github.com/hanwoo726/MyProject/blob/master/Main.png) | ![image](https://github.com/hanwoo726/MyProject/blob/master/LoginPage.png) |
 |:---------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|
@@ -96,5 +99,9 @@
 | Main| OrderList| UserList| Required|
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 | ![image](https://github.com/hanwoo726/MyProject/blob/master/AdminMain.png) | ![image](https://github.com/hanwoo726/MyProject/blob/master/Order.png) | ![image](https://github.com/hanwoo726/MyProject/blob/master/userList.png) | ![image](https://github.com/hanwoo726/MyProject/blob/master/inquiry.png) |                                                                      |
+
+
+## 프로젝트 구조(ERD)
+![image](https://github.com/user-attachments/assets/aa740f1d-5fcd-460d-8aa5-09f553632071)
 
 
