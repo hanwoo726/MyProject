@@ -60,6 +60,22 @@
   - 배송 조회 페이지 구현
   - 리뷰 페이지 구현
   - 주문 페이지 구현
+ 
+
+  ## 기술 스택
+
+| Front-End          | Back-End              | ETC                   | Version Control |
+|--------------------|-----------------------|-----------------------|-----------------|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  | ![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)  | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![Ajax](https://img.shields.io/badge/Ajax-007FFF?style=for-the-badge&logo=ajax&logoColor=white) | ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)  | ![RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)  | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  | ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  | ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  |  |
+| ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  | ![ERD Editor](https://img.shields.io/badge/ERD_Editor-5C2D91?style=for-the-badge&logo=erd&logoColor=white)  |  |
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  | ![MyBatis](https://img.shields.io/badge/MyBatis-007396?style=for-the-badge&logo=mybatis&logoColor=white)  | ![jsoup](https://img.shields.io/badge/jsoup-333333?style=for-the-badge&logo=jsoup&logoColor=white)  |  |
+| ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)  | ![Lombok](https://img.shields.io/badge/Lombok-323330?style=for-the-badge&logo=lombok&logoColor=white)  | ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)  |  |
+| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  | ![Validator](https://img.shields.io/badge/Validator-000000?style=for-the-badge&logo=validator&logoColor=white)  | ![selenium-java](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  |  |
+| ![Slick](https://img.shields.io/badge/Slick-1E2923?style=for-the-badge&logo=slick&logoColor=white)  |  | ![commons-csv](https://img.shields.io/badge/commons_csv-007396?style=for-the-badge&logo=apache&logoColor=white)  |  |
+|  |  | ![commons-lang3](https://img.shields.io/badge/commons_lang3-007396?style=for-the-badge&logo=apache&logoColor=white)  |  |
+|  |  | ![commons-text](https://img.shields.io/badge/commons_text-007396?style=for-the-badge&logo=apache&logoColor=white)  |  |
 
 ## 페이지 설명
 | ![image](https://github.com/hanwoo726/MyProject/blob/master/Main.png) | ![image](https://github.com/hanwoo726/MyProject/blob/master/LoginPage.png) |
@@ -81,17 +97,4 @@
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 | ![image](https://github.com/hanwoo726/MyProject/blob/master/AdminMain.png) | ![image](https://github.com/hanwoo726/MyProject/blob/master/Order.png) | ![image](https://github.com/hanwoo726/MyProject/blob/master/userList.png) | ![image](https://github.com/hanwoo726/MyProject/blob/master/inquiry.png) |                                                                      |
 
-## 기술 스택
 
-| Front-End          | Back-End              | ETC                   | Version Control |
-|--------------------|-----------------------|-----------------------|-----------------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  | ![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)  | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![Ajax](https://img.shields.io/badge/Ajax-007FFF?style=for-the-badge&logo=ajax&logoColor=white) | ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)  | ![RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)  | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  | ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  | ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  |  |
-| ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  | ![ERD Editor](https://img.shields.io/badge/ERD_Editor-5C2D91?style=for-the-badge&logo=erd&logoColor=white)  |  |
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  | ![MyBatis](https://img.shields.io/badge/MyBatis-007396?style=for-the-badge&logo=mybatis&logoColor=white)  | ![jsoup](https://img.shields.io/badge/jsoup-333333?style=for-the-badge&logo=jsoup&logoColor=white)  |  |
-| ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)  | ![Lombok](https://img.shields.io/badge/Lombok-323330?style=for-the-badge&logo=lombok&logoColor=white)  | ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)  |  |
-| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  | ![Validator](https://img.shields.io/badge/Validator-000000?style=for-the-badge&logo=validator&logoColor=white)  | ![selenium-java](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  |  |
-| ![Slick](https://img.shields.io/badge/Slick-1E2923?style=for-the-badge&logo=slick&logoColor=white)  |  | ![commons-csv](https://img.shields.io/badge/commons_csv-007396?style=for-the-badge&logo=apache&logoColor=white)  |  |
-|  |  | ![commons-lang3](https://img.shields.io/badge/commons_lang3-007396?style=for-the-badge&logo=apache&logoColor=white)  |  |
-|  |  | ![commons-text](https://img.shields.io/badge/commons_text-007396?style=for-the-badge&logo=apache&logoColor=white)  |  |
