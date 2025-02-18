@@ -79,6 +79,12 @@
 팀 내에서 백엔드를 담당하며, 쇼핑몰 관리자 페이지 개발을 진행했습니다. 이 프로젝트에서는 웹 회원 정보를 조회하고, 등급 변경, 계정 활성/비활성화, 상품 문의사항 답변 등의 기능을 구현하여 회원과 관리자 간의 원활한 의사소통을 가능하게 했습니다.
 MVC 패턴을 기반으로 MyBatis와 Thymeleaf를 활용하여 SQL과 객체 지향 언어를 매핑하고, 데이터를 HTML로 표현하는 구조를 처음으로 경험한 프로젝트입니다.
 
+![image](https://github.com/user-attachments/assets/6fbf8f44-c592-467c-9aab-1846417e8801)
+
+![image](https://github.com/user-attachments/assets/ee69db2d-db46-4e6d-9a4b-95fd44b5538a)
+
+
+
 
 
 
