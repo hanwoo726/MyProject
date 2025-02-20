@@ -79,9 +79,19 @@
 팀 내에서 백엔드를 담당하며, 쇼핑몰 관리자 페이지 개발을 진행했습니다. 이 프로젝트에서는 웹 회원 정보를 조회하고, 등급 변경, 계정 활성/비활성화, 상품 문의사항 답변 등의 기능을 구현하여 회원과 관리자 간의 원활한 의사소통을 가능하게 했습니다.
 MVC 패턴을 기반으로 MyBatis와 Thymeleaf를 활용하여 SQL과 객체 지향 언어를 매핑하고, 데이터를 HTML로 표현하는 구조를 처음으로 경험한 프로젝트입니다.
 
-![image](https://github.com/user-attachments/assets/6fbf8f44-c592-467c-9aab-1846417e8801)
 
-![image](https://github.com/user-attachments/assets/ee69db2d-db46-4e6d-9a4b-95fd44b5538a)
+### 회원 아이디 검색 기능
+![녹화_2025_02_20_16_12_36_750 (1)](https://github.com/user-attachments/assets/5de39af7-2dfa-4541-b83b-4351d2beeb0e)
+
+Thymeleaf를 이용하여 표현하고 text 타입으로 유저의 아이디 값을 받아 일치하는 값이 해당하는 모든 유저들의 리스트를 뽑게 작용시키고 
+그에 맞는 페이지네이션도 Controller단에서 검색된 유저 수를 10 단위로 나누어 페이지를 계산하여 동적으로 반영하였습니다.
+
+#### 어려웠던 점
+
+
+
+
+
 
 
 
